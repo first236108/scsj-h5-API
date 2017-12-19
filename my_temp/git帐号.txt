@@ -1,0 +1,35 @@
+eteams.cn	13007686112	//团队OA	
+www.processon.com	//username:bushuhui@foxmail.com		password:bushuhui123 思维导图
+192.168.1.250：8080	//项目BUG管理，需要可找张娟开通账号
+\\192.168.1.250\scsj	//公共盘
+https://shimo.im	85210755@qq.com
+doc.scsj.net.cn		85210755@qq.com
+dev.scsj.net.cn		first236108/85210755@qq.com
+
+http://dev.scsj.net.cn/yangyanbin/admin-php.git
+http://dev.scsj.net.cn/first236108/tp5_api.git
+
+
+-------------公司官网：
+id.scsj.net.cn    pzq	pzq_pzq_pzq
+
+服务器
+http://t.scsj.net.cn/pzq/admin/admin
+
+FTP：
+t.scsj.net.cn   pzq     scsj_pzq123
+
+正式数据库：
+http://api.scsj.net.cn/myadmin.php?server=rdsproxy56.rdsprwt7mveezzq.rds.bj.baidubce.com&username=scsj_proxy_root&db=scsj&select=t_user
+
+rdsproxy56.rdsprwt7mveezzq.rds.bj.baidubce.com
+scsj_proxy_root		eccbd73df5ff4848aab5fd29069f5530
+
+
+
+
+
+http://git.fangniuwa.co/fangniuwa/fnw.git
+
+账号  panzhiqiang
+密码  T97AktTxtU46OKtF
